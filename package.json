@@ -1,0 +1,24 @@
+{
+  "name": "aha_login",
+  "version": "1.0.0",
+  "description": "node based login utility for Applied Health Analytics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucegust/aha_login.git"
+  },
+  "author": "Bruce Gust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brucegust/aha_login/issues"
+  },
+  "homepage": "https://github.com/brucegust/aha_login#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
+  }
+}
